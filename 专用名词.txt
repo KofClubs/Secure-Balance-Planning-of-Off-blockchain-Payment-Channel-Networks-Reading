@@ -1,1 +1,4 @@
 请把专有名词翻译放在这里，请时刻留意合作者的分支并保持一致，减轻后期工作量。
+payment networks 支付网络
+payment channels 支付渠道
+payment demands 支付需求
